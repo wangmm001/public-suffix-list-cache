@@ -1,0 +1,5 @@
+Scaffolding (README, workflow yml): MIT.
+
+Data (`data/`): The Public Suffix List is maintained by Mozilla and
+licensed under Mozilla Public License 2.0. See
+https://publicsuffix.org/ and https://mozilla.org/MPL/2.0/.
